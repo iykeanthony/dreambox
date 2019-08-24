@@ -1,0 +1,41 @@
+
+nav{
+	border-bottom: #2c910a solid 1.5px;
+}
+
+
+#showcase{
+	background-image: url('./images/show-image.jpg');
+	background-size: cover;
+	min-height: 700px;
+}
+
+.header-overlay{
+	background-color: rgba(0, 0, 0, 0.6);
+	min-height: 700px;
+	width: 100%;
+}
+
+.inner-text{
+	padding-top: 150px;
+}
+
+.card-image{
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+}
+
+.divider{
+	border-bottom: 2px solid #2c910a;
+}
+
+.card{
+	border: none;
+}
+
+footer{
+	background: #313331;
+	color: #fff;
+	padding: 20px 0;
+}
